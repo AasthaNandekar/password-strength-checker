@@ -35,7 +35,7 @@ A **Python-based cybersecurity tool** that analyzes the strength of any password
 
 ---
 
-## ✨ Features
+#✨ Features
 
 - ✅ Strength rating — **Weak / Medium / Strong / Very Strong**
 - ✅ Weighted scoring system (score out of 8)
