@@ -1,4 +1,4 @@
-## 🔐 Password Strength Checker
+# 🔐 Password Strength Checker
 
 A **Python-based cybersecurity tool** that analyzes the strength of any password and gives detailed feedback, crack time estimation, and a stronger password suggestion — all in a clean, color-coded terminal interface.
 
