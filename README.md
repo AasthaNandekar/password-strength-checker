@@ -4,7 +4,7 @@ A **Python-based cybersecurity tool** that analyzes the strength of any password
 
 ---
 
-## 🚀 Live Demo
+# 🚀 Live Demo
 
 ```
 ====================================================
